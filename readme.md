@@ -1,1 +1,1 @@
-This repostitory contains all the Data Visualisation Exercises/ Exercises I've done using Tableau. 
+This repostitory contains all the Data Visualisation Exercises/Projects I've done using Tableau. 
