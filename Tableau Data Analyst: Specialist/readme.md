@@ -1,4 +1,4 @@
-This repo contains visualisation files and dashboard exercises covered in Philip Burton's Tableau Specialisation Course on Udemy. 
+This folder contains visualisation files and dashboard exercises covered in Philip Burton's Tableau Specialisation Course on Udemy. 
 
 
 
