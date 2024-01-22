@@ -1,7 +1,7 @@
 
 Welcome to my DataViz Repo!
 
-Here is list of Visualisation Projects I've attempted :
+Here is list of Visualisation Projects that I've attempted :
 
 
 -  [**Netflix Dashboard**](https://public.tableau.com/views/NetflixDashboard_17059659385330/Netflix?:language=en-US&:display_count=n&:origin=viz_share_link)
